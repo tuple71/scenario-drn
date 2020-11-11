@@ -1,0 +1,17 @@
+.waf-1*
+.waf3-1*
+.DS*
+.lock*
+build/
+*.pyc
+tags
+*.log
+*.swp
+result*.txt
+Makefile
+.cproject
+.project
+.pydevproject
+.settings
+.svn
+sim*
